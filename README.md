@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 10 |
+| 11 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (2)
+- [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [games](#games) (2)
 - [greedy](#greedy) (5)
@@ -21,7 +21,7 @@
 - [number theory](#number-theory) (2)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (4)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -29,6 +29,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 
@@ -97,6 +98,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 
 ---
