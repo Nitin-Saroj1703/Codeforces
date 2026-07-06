@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 10 |
+| 14 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [games](#games) (2)
@@ -24,6 +25,12 @@
 - [strings](#strings) (2)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
 
 ### brute force
 
