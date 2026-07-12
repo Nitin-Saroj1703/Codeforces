@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 11 |
+| 23 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [games](#games) (3)
@@ -32,6 +32,7 @@
 |---|---------|------------|----------|
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
 | 2246A | [farmpiggie and Subset Sum](https://codeforces.com/contest/2246/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/2246/A%20-%20farmpiggie%20and%20Subset%20Sum/solution.cpp) |
+| 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.cpp) |
 
 ### brute force
 
