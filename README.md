@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 39 | 14 |
+| 40 | 14 |
 
 ---
 
@@ -14,12 +14,12 @@
 
 - [Uncategorized](#uncategorized) (4)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (9)
+- [brute force](#brute-force) (10)
 - [constructive algorithms](#constructive-algorithms) (9)
 - [games](#games) (3)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (12)
-- [implementation](#implementation) (8)
+- [implementation](#implementation) (9)
 - [math](#math) (20)
 - [number theory](#number-theory) (5)
 - [schedules](#schedules) (1)
@@ -56,6 +56,7 @@
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 
 ### constructive algorithms
@@ -115,6 +116,7 @@
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 
 ### math
 
