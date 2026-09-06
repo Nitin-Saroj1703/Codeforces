@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 54 | 15 |
+| 55 | 16 |
 
 ---
 
@@ -17,10 +17,11 @@
 - [brute force](#brute-force) (13)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (10)
+- [data structures](#data-structures) (1)
 - [games](#games) (3)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (16)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [math](#math) (23)
 - [number theory](#number-theory) (7)
 - [schedules](#schedules) (1)
@@ -90,6 +91,12 @@
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
+
 ### games
 
 | # | Problem | Difficulty | Solution |
@@ -132,6 +139,7 @@
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
+| 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Nitin-Saroj1703/Codeforces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
